@@ -19,4 +19,10 @@ for(let i = 0 ; i < tech_imgs.length ; i++){
 
 }
 
+
+function inserirPosts(){
+    
+}
+
+
 inserirTecnologias();

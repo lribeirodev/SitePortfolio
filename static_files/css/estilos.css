@@ -18,6 +18,7 @@ body{
     margin-top: 0px;
     padding-left: 0px;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     background-color: #222222;
 }
@@ -60,13 +61,26 @@ body{
     border: 3px solid #111111;
 }
 
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+
+.conteudo_item{
+    height: 10em;
+    margin: 25px 10px 0px 10px;
+    background-color: #111111;
+}
+
+.conteudo_item:hover{
+    background-color: #222222;
+    cursor: pointer;
+}
+
 @media only screen and (max-width: 800px) {
 
 .menuTop{
-    flex-direction: column;
-}
-
-.tecnologias{
     flex-direction: column;
 }
 
