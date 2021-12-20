@@ -57,7 +57,7 @@ xml.onload = function(){
         conteudo.appendChild(div);
     }
 }
-xml.open("GET","/static_files/xml/repo.xml",true);
+xml.open("GET","static_files/xml/repo.xml",true);
 xml.send();
 
 }
