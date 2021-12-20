@@ -1,53 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <portfolio>
-<item>
-    <titulo>Projeto Aplicativo android Unisa</titulo>
-    <descricao>Este aplicativo foi desenvolvido para facilitar o acesso dos alunos ao sistema da unisa</descricao>
-    <imagem>https://raw.githubusercontent.com/lribeirodev/Faculdade-Unisa-Aplicativo/master/app/src/main/res/drawable-v24/logo_unisa.png</imagem>
-    <link>https://github.com/lribeirodev/Faculdade-Unisa-Aplicativo</link>
-    <tecnologias>ANDROID STUDIO, JAVASCRIPT, CSS, HTML</tecnologias>
-</item>
+    <item>
+        <titulo>projeto criptografar mensagem</titulo>
+        <descricao>Este algoritmo foi criado no intuito de elaborar um sistema único de criptografia de mensagem</descricao>
+        <imagem>/static_files/img/criptografar_mensagem.png</imagem>
+        <link>https://github.com/lribeirodev/Algoritmo-CriptografarMensagem</link>
+        <tecnologias>JAVA</tecnologias>
+    </item>
 
-<item>
-    <titulo>Projeto Web Experience Managment</titulo>
-    <descricao>Projeto desenvolvido para implementação no Web Experience Management da Open Text</descricao>
-    <imagem>https://github.com/lribeirodev/ProjetoWEM/raw/master/static_files/screenshots/desktop.png</imagem>
-    <link>https://github.com/lribeirodev/ProjetoWEM</link>
-    <tecnologias>VISUAL STUDIO, HTML, JAVASCRIPT, CSS, JSP, JAVA</tecnologias>
-</item>
+    <item>
+        <titulo>Projeto Aplicativo android Unisa</titulo>
+        <descricao>Este aplicativo foi desenvolvido para facilitar o acesso dos alunos ao sistema da unisa</descricao>
+        <imagem>https://raw.githubusercontent.com/lribeirodev/Faculdade-Unisa-Aplicativo/master/app/src/main/res/drawable-v24/logo_unisa.png</imagem>
+        <link>https://github.com/lribeirodev/Faculdade-Unisa-Aplicativo</link>
+        <tecnologias>ANDROID STUDIO, JAVASCRIPT, CSS, HTML</tecnologias>
+    </item>
 
-<item>
-    <titulo>Tela Simples de Login</titulo>
-    <descricao>Tela Simples de login, simulando um acesso a intranet com mudança do tema nas cores</descricao>
-    <imagem>/static_files/img/Tela_Simples_Login.png</imagem>
-    <link>https://github.com/lribeirodev/telaLogin-WebApp</link>
-    <tecnologias>VISUAL STUDIO, HTML, JAVASCRIPT, CSS, JSP, JAVA</tecnologias>
-</item>
+    <item>
+        <titulo>Projeto Web Experience Managment</titulo>
+        <descricao>Projeto desenvolvido para implementação no Web Experience Management da Open Text</descricao>
+        <imagem>https://github.com/lribeirodev/ProjetoWEM/raw/master/static_files/screenshots/desktop.png</imagem>
+        <link>https://github.com/lribeirodev/ProjetoWEM</link>
+        <tecnologias>VISUAL STUDIO, HTML, JAVASCRIPT, CSS, JSP, JAVA</tecnologias>
+    </item>
 
-<item>
-    <titulo>Hack Glassdoor</titulo>
-    <descricao>Projeto Simples que Converte Salários de Dolar para Reais na pesquisa de Salários do GlaasDoor</descricao>
-    <imagem>/static_files/img/Converter_Dolar_Real_GlassDoor.png</imagem>
-    <link>https://github.com/lribeirodev/glassdoorsalaries</link>
-    <tecnologias>JAVASCRIPT</tecnologias>
-    <altura>15px</altura>
-</item>
+    <item>
+        <titulo>Tela Simples de Login</titulo>
+        <descricao>Tela Simples de login, simulando um acesso a intranet com mudança do tema nas cores</descricao>
+        <imagem>/static_files/img/Tela_Simples_Login.png</imagem>
+        <link>https://github.com/lribeirodev/telaLogin-WebApp</link>
+        <tecnologias>VISUAL STUDIO, HTML, JAVASCRIPT, CSS, JSP, JAVA</tecnologias>
+    </item>
 
-<item>
-    <titulo>HackerRank Resolvidos</titulo>
-    <descricao>Repostorio com os desafios que eu resolvi no HackerRank na Linguagem JAVA</descricao>
-    <imagem>/static_files/img/hackerrank_logo.png</imagem>
-    <link>https://github.com/lribeirodev/hackerrank</link>
-    <tecnologias>JAVA</tecnologias>
-    <altura>15px</altura>
-</item>
+    <item>
+        <titulo>Hack Glassdoor</titulo>
+        <descricao>Projeto Simples que Converte Salários de Dolar para Reais na pesquisa de Salários do GlaasDoor</descricao>
+        <imagem>/static_files/img/Converter_Dolar_Real_GlassDoor.png</imagem>
+        <link>https://github.com/lribeirodev/glassdoorsalaries</link>
+        <tecnologias>JAVASCRIPT</tecnologias>
+        <altura>15px</altura>
+    </item>
 
-<item>
-    <titulo>Implementação Perceptron</titulo>
-    <descricao>Implementação de Perceptron com 1 Neuronio Simples, Inteligencia Artificial</descricao>
-    <imagem>/static_files/img/perceptron_simples.png</imagem>
-    <link>https://github.com/lribeirodev/perceptron</link>
-    <tecnologias>JAVA</tecnologias>
-</item>
+    <item>
+        <titulo>HackerRank Resolvidos</titulo>
+        <descricao>Repostorio com os desafios que eu resolvi no HackerRank na Linguagem JAVA</descricao>
+        <imagem>/static_files/img/hackerrank_logo.png</imagem>
+        <link>https://github.com/lribeirodev/hackerrank</link>
+        <tecnologias>JAVA</tecnologias>
+        <altura>15px</altura>
+    </item>
+
+    <item>
+        <titulo>Implementação Perceptron</titulo>
+        <descricao>Implementação de Perceptron com 1 Neuronio Simples, Inteligencia Artificial</descricao>
+        <imagem>/static_files/img/perceptron_simples.png</imagem>
+        <link>https://github.com/lribeirodev/perceptron</link>
+        <tecnologias>JAVA</tecnologias>
+    </item>
+
+    <item>
+        <titulo>voz do google lado servidor java</titulo>
+        <descricao>uma brincadeira que fiz com os meus filhos, desenvolvi um aplicativo que sai a voz do google, utilizando java, selenium e ServerSocket</descricao>
+        <imagem>/static_files/img/voz_google.png</imagem>
+        <link>https://github.com/lribeirodev/vozGoogle-Servidor-http-selenium</link>
+        <tecnologias>JAVA, SELENIUM, SERVER SOCKET</tecnologias>
+    </item>
+
+    <item>
+        <titulo>voz do google lado cliente android</titulo>
+        <descricao>aplicação android que desenvolvi, ela se conecta ao Server Socket e envia a mensagem que eu digitar e a voz do google sai no lado servidor</descricao>
+        <imagem>/static_files/img/voz_google.png</imagem>
+        <link>https://github.com/lribeirodev/VozGoogle-Cliente-Aplicativo</link>
+        <tecnologias>ANDROID STUDIO, JAVA, THREAD, SHARED PREFERENCES, SOCKET</tecnologias>
+    </item>
+
+    <item>
+        <titulo>projeto integrador aplicação android faculdade agosto 2021</titulo>
+        <descricao>projeto integrador desenvolvido como uma ideia de aluguel de bicicletas com postos de retirada e permissionamento atraves de codigo QR CODE</descricao>
+        <imagem>https://raw.githubusercontent.com/lribeirodev/Faculdade-Unisa-Aplicativo/master/app/src/main/res/drawable-v24/logo_unisa.png</imagem>
+        <link>https://github.com/lribeirodev/Projeto-Integrador-Faculdade-agosto-2021</link>
+        <tecnologias>ANDROID STUDIO, JAVA, ANDROID, QR CODE</tecnologias>
+    </item>
+
+    <item>
+        <titulo>Suporte Avançado Fibra Optica Aplicação Android</titulo>
+        <descricao>Aplicativo criado no intuito de auxiliar os instaladores de fibra optico para diminuir o erro na hora de suas instalações facilitando a localização da fibra optica e do tubo, aumento assim sua produtividade</descricao>
+        <imagem>/static_files/img/suporte_fttx_avancado.png</imagem>
+        <link>https://github.com/lribeirodev/Suporte-Avancado-Fibra-Optica-Aplicativo</link>
+        <tecnologias>ANDROID STUDIO, JAVA</tecnologias>
+        <altura>50px</altura>
+    </item>
 
 </portfolio>

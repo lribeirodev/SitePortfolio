@@ -48,8 +48,10 @@ xml.onload = function(){
         li_tecnologias.innerText = item.getElementsByTagName('tecnologias')[0].childNodes[0].nodeValue;
 
         if(item.getElementsByTagName('altura').length > 0 ){
+            img.style.width = 'auto';
             img.style.height = item.getElementsByTagName('altura')[0].childNodes[0].nodeValue;
         } else if(item.getElementsByTagName('largura').length > 0){
+            img.style.height = 'auto';
             img.style.width = item.getElementsByTagName('largura')[0].childNodes[0].nodeValue;
         }
 
