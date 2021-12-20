@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <portfolio>
 <item>
-    <titulo>Projeto Aplicativo Unisa</titulo>
+    <titulo>Projeto Aplicativo android Unisa</titulo>
     <descricao>Este aplicativo foi desenvolvido para facilitar o acesso dos alunos ao sistema da unisa</descricao>
     <imagem>https://raw.githubusercontent.com/lribeirodev/Faculdade-Unisa-Aplicativo/master/app/src/main/res/drawable-v24/logo_unisa.png</imagem>
     <link>https://github.com/lribeirodev/Faculdade-Unisa-Aplicativo</link>
@@ -25,13 +25,29 @@
 </item>
 
 <item>
-    <titulo>Tela Simples de Login</titulo>
-    <descricao>Tela Simples de login, simulando um acesso a intranet com mudança do tema nas cores</descricao>
-    <imagem>/static_files/img/Tela_Simples_Login.png</imagem>
-    <link>https://github.com/lribeirodev/telaLogin-WebApp</link>
-    <tecnologias>VISUAL STUDIO, HTML, JAVASCRIPT, CSS, JSP, JAVA</tecnologias>
+    <titulo>Hack Glassdoor</titulo>
+    <descricao>Projeto Simples que Converte Salários de Dolar para Reais na pesquisa de Salários do GlaasDoor</descricao>
+    <imagem>/static_files/img/Converter_Dolar_Real_GlassDoor.png</imagem>
+    <link>https://github.com/lribeirodev/glassdoorsalaries</link>
+    <tecnologias>JAVASCRIPT</tecnologias>
+    <altura>15px</altura>
 </item>
 
+<item>
+    <titulo>HackerRank Resolvidos</titulo>
+    <descricao>Repostorio com os desafios que eu resolvi no HackerRank na Linguagem JAVA</descricao>
+    <imagem>/static_files/img/hackerrank_logo.png</imagem>
+    <link>https://github.com/lribeirodev/hackerrank</link>
+    <tecnologias>JAVA</tecnologias>
+    <altura>15px</altura>
+</item>
 
+<item>
+    <titulo>Implementação Perceptron</titulo>
+    <descricao>Implementação de Perceptron com 1 Neuronio Simples, Inteligencia Artificial</descricao>
+    <imagem>/static_files/img/perceptron_simples.png</imagem>
+    <link>https://github.com/lribeirodev/perceptron</link>
+    <tecnologias>JAVA</tecnologias>
+</item>
 
 </portfolio>
