@@ -8,4 +8,12 @@
     <tecnologias>ANDROID STUDIO, JAVASCRIPT, CSS, HTML</tecnologias>
 </item>
 
+<item>
+    <titulo>Projeto Aplicativo Unisa</titulo>
+    <descricao>Este aplicativo foi desenvolvido para facilitar o acesso dos alunos ao sistema da unisa</descricao>
+    <imagem>https://raw.githubusercontent.com/lribeirodev/Faculdade-Unisa-Aplicativo/master/app/src/main/res/drawable-v24/logo_unisa.png</imagem>
+    <link>https://github.com/lribeirodev/Faculdade-Unisa-Aplicativo</link>
+    <tecnologias>ANDROID STUDIO, JAVASCRIPT, CSS, HTML</tecnologias>
+</item>
+
 </portfolio>
