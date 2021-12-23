@@ -89,6 +89,7 @@ footer span{
 
 .conteudo_item{
     display: flex;
+    border-radius: 10px;
     flex-direction: row;
     align-items: center;
     margin: 25px 10px 0px 10px;
