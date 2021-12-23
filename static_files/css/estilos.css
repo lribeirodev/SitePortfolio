@@ -90,14 +90,15 @@ footer span{
 .conteudo_item{
     display: flex;
     flex-direction: row;
-
     align-items: center;
     margin: 25px 10px 0px 10px;
     background-color: #111111;
+    transition: 2s;
 }
 
 .conteudo_item:hover{
     background-color: #222222;
+    animation: conteudo_item 2s forwards;
  /*   cursor: pointer; */
 }
 
