@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <portfolio>
+
+    <item>
+        <titulo>Bug encontrado no Youtube e Reportado para a Google</titulo>
+        <descricao>Falha de segurança no YouTube que concede ao usuario o controle de como os anúncios se comportam</descricao>
+        <imagem>static_files/img/bug_youtube.png</imagem>
+        <link>https://github.com/lribeirodev/bugYoutube</link>
+        <altura>15px</altura>
+        <tecnologias>JAVASCRIPT, HTML, CSS</tecnologias>
+    </item>
+
     <item>
         <titulo>projeto criptografar mensagem</titulo>
         <descricao>Este algoritmo foi criado no intuito de elaborar um sistema único de criptografia de mensagem</descricao>
